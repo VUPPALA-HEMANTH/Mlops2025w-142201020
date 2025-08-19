@@ -1,0 +1,12 @@
+12a13,23
+> 
+> echo "FACTORIAL OF N"
+> echo -n "enter n:"
+> read -r n
+> echo "digit is:$digit"
+> res=1
+> for i in $(seq 2 $n);do
+> 	res=$((i*res))
+> done
+> echo "FACTORIAL : $res"
+> 
