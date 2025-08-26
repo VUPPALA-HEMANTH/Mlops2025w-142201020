@@ -1,0 +1,16 @@
+# Python environment and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dependency and build config
+pyproject.toml
+uv.lock
+
+# OS-specific
+.DS_Store
+Thumbs.db
