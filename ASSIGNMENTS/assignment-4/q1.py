@@ -1,7 +1,7 @@
 import sqlite3
 import pandas as pd
 
-def connect_db(db_file="question1.db"):
+def connect_db(db_file="q1.db"):
     conn = sqlite3.connect(db_file)
     return conn
 
