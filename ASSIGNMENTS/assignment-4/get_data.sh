@@ -10,11 +10,11 @@ echo "Downloading Online Retail dataset..."
 wget -O "$EXCEL_FILE" "$URL"
 
 echo "Converting Excel to CSV..."
-uv run convert_data.py
+uv run data_conversion.py
 
 echo "Removing the Excel File"
 rm -rf "$EXCEL_FILE"
 
-DB_FILE="question1.db"
-sqlite3 $DB_FILE < question1.sql
+DB_FILE="1.db"
+sqlite3 $DB_FILE < q1.sql
 echo "Database $DB_FILE initialized from SQL file!"
