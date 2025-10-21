@@ -1,0 +1,24 @@
+{
+  "os": "Linux-6.14.0-33-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-10-21T17:46:49.525671Z",
+  "program": "/home/hemanth/Desktop/HEMANTH/SEM-7/MLOPS/week8/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePath": "week8/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePathLocal": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "email": "142201020@smail.iitpkd.ac.in",
+  "root": "/home/hemanth/Desktop/HEMANTH/SEM-7/MLOPS/week8",
+  "host": "hemanth-HP-OmniBook-X-Flip-Laptop-16-ar0xxx",
+  "executable": "/home/hemanth/jupyterenv/bin/python",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "203073937408",
+      "used": "62979309568"
+    }
+  },
+  "memory": {
+    "total": "15999307776"
+  },
+  "writerId": "y6k55jefprpol5c0cw9m89pmaxwzm4my"
+}

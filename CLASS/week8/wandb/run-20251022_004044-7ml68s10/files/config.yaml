@@ -1,0 +1,41 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            xm8texxf7hunmxoljawnql4aj5fthzt4:
+                codePath: week8/wandb_cloud_deploy_lab_detailed.ipynb
+                codePathLocal: wandb_cloud_deploy_lab_detailed.ipynb
+                cpu_count: 6
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "203073937408"
+                        used: "63283539968"
+                email: 142201020@smail.iitpkd.ac.in
+                executable: /home/hemanth/jupyterenv/bin/python
+                host: hemanth-HP-OmniBook-X-Flip-Laptop-16-ar0xxx
+                memory:
+                    total: "15999307776"
+                os: Linux-6.14.0-33-generic-x86_64-with-glibc2.39
+                program: /home/hemanth/Desktop/HEMANTH/SEM-7/MLOPS/week8/wandb_cloud_deploy_lab_detailed.ipynb
+                python: CPython 3.12.3
+                root: /home/hemanth/Desktop/HEMANTH/SEM-7/MLOPS/week8
+                startedAt: "2025-10-21T19:10:44.395520Z"
+                writerId: xm8texxf7hunmxoljawnql4aj5fthzt4
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+            "4": 3.12.3
+            "5": 0.22.2
+            "8":
+                - 1
+            "12": 0.22.2
+            "13": linux-x86_64
